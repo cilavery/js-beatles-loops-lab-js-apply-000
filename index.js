@@ -23,9 +23,9 @@ function iLoveTheBeatles(num) {
   var arr = [];
   var i = 0;
   if (num > 15) {
-    num = 1
+    num = 0
   }
-  
+
   do {
     var statement = 'I love the Beatles!'
     arr.push(statement)
